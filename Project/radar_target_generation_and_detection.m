@@ -159,7 +159,7 @@ Td = 8;
 % *%TODO* :
 %Select the number of Guard Cells in both dimensions around the Cell under 
 %test (CUT) for accurate estimation
-Gr = 4;
+Gr = 5;
 Gd = 4;
 
 % *%TODO* :
